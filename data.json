@@ -1,0 +1,12 @@
+{
+    "china": {
+        "name": "China",
+        "capital": "Beijing",
+        "population": 1404890000,
+        "region": "Asia",
+        "currency": "Chinese yuan",
+        "languages": "Chinese",
+        "flag": "https://flags.restcountries.com/v5/w640/cn.png",
+        "timezone": "UTC+08:00"
+    }
+}
